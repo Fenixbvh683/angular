@@ -1,0 +1,19 @@
+i.fa-solid.fa-user-lock.fa-2xl:hover{
+        color: red;
+}
+
+i.fa-solid.fa-user-lock.fa-2xl{
+    color: rgb(0, 140, 255);
+}
+
+i.fa-solid.fa-user.fa-2xl:hover{
+color: red;
+}
+
+i.fa-solid.fa-user.fa-2xl{
+color: rgb(0, 140, 255);
+}
+.list-group{
+--bs-list-group-bg: transparen;
+--bs-list-group-border-color: transparent;
+}

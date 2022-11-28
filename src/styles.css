@@ -1,1 +1,137 @@
-/* You can add global styles to this file, and also import other style files */
+/*.profile{
+    background-size: 5rem;
+    
+}*/
+
+.cuerpo{
+
+  background-color: beige;
+}
+
+.card{
+  background: transparent;
+}
+
+.ban{
+  
+  padding-top: 25rem;
+  
+}
+/*div#info-action {
+  display: flex;
+}
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 20prem;
+  box-sizing: border-box;
+ 
+}*/
+
+
+/*section.panel, section.panelinfo{
+  margin-top: 6rem;
+}*/
+
+
+.modal-content,.modal-footer, .modal.fade, .modal-header, .modal-body{
+  background-color: transparent;
+  border-color: transparent;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Shrikhand&display=swap');
+.modal-dialog{
+  color:rgba(2, 238, 2, 0.973);
+  font-family: 'Shrikhand', cursive;
+  font-size: x-large;
+  text-shadow: cornsilk;
+  
+}
+
+
+
+
+/*$container-max-widths:(
+sm: 540px,
+md: 720px,
+lg: 960px,
+xl: 1140px,
+xxl: 1320px
+);*/
+
+/*#portada{
+      
+  background-image: url(../img/tecno.png);
+  background-position: center;
+  background-size: 100%;
+  margin: auto;
+  background-repeat: no-repeat;
+  min-height: 60vh;
+  z-index: 0;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  width: 80%;
+}*/
+
+.modi{
+  padding: 8rem 2rem 1rem 0;
+}
+.logoutic{
+  border-radius: none;
+      width: 9rem;
+      height: 9rem;
+      margin-top: 10px;
+      z-index: 1;
+
+   
+}
+.acerca{
+  color: rgb(5, 5, 92);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 3rem 2rem 1rem 0
+  
+}
+
+.institu{
+  font-size: 2rem;
+  margin: 2rem;
+  color: rgb(109, 9, 223);
+}
+.bajo{
+  color: rgb(110, 24, 21);
+}
+
+.uticla{
+  padding: 3rem 0 0 0;
+}
+.logodr{
+  border-radius: 100%;
+      width: 9rem;
+      height: 9rem;
+      margin-top: 10px;
+      z-index: 1;
+}
+.logoapdos{
+  border-radius: none;
+      width: 10rem;
+      height: 5rem;
+      margin-top: 3rem;
+      z-index: 1;
+}
+
+.logo1exp{
+      color: rgb(9, 223, 212);
+      width: 12rem;
+      height: 6rem;
+}
+.html{
+  font-size: 2rem;
+  color: blue;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/*Inicio de Progres Bar Mitades*/
+

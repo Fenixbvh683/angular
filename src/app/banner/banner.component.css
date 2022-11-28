@@ -1,0 +1,12 @@
+.banner{
+    background-image: url(../banner/img/codigoblan.png);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 60vh;
+    margin-top: 0;
+    z-index: 0;
+}
+.margen{
+    padding-top: 40rem;
+}
