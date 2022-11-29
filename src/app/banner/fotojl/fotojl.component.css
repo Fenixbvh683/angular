@@ -1,10 +1,9 @@
 .profile-image {
-   background-image: url(../fotojl/img/JL3.png);
+   /*background-image: url(../fotojl/img/JL3.png);*/
     border-radius: 50%;
-    width: 18rem;
-    height: 18rem;
-    margin-top: -10rem;
-    margin-bottom: 2rem;
-    margin-left: 5rem;
+    width: 13rem;
+    height: 13rem;
+    margin-top: -7rem;
+    
     z-index: 1;
 }
