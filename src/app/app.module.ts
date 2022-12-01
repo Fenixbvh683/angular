@@ -93,6 +93,8 @@ import { TituproyeComponent } from './modales/modproyectos/tituproye/tituproye.c
 import { UnoproyeComponent } from './modales/modproyectos/unoproye/unoproye.component';
 import { DosproyeComponent } from './modales/modproyectos/dosproye/dosproye.component';
 import { TresproyeComponent } from './modales/modproyectos/tresproye/tresproye.component';
+import { HomeComponent } from './home/home.component';
+import { Error404Component } from './error404/error404.component';
 
 
 @NgModule({
@@ -188,6 +190,8 @@ import { TresproyeComponent } from './modales/modproyectos/tresproye/tresproye.c
     UnoproyeComponent,
     DosproyeComponent,
     TresproyeComponent,
+    HomeComponent,
+    Error404Component,
  
   ],
   imports: [
